@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "33697668264",
+    "firebase_url": "https://storage-3c2af.firebaseio.com",
+    "project_id": "storage-3c2af",
+    "storage_bucket": "storage-3c2af.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:33697668264:android:041d59aa181b9053",
+        "android_client_info": {
+          "package_name": "vishnu.rai.storage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "33697668264-r2kiobh2lhd88e7ipd3rnuqqinkj0hj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "vishnu.rai.storage",
+            "certificate_hash": "94c75faed4857d73863e584f481441af66a5359e"
+          }
+        },
+        {
+          "client_id": "33697668264-r36vvu8g8natst352bmb52hvsl77mdho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYJtikN7uqBvdbx1sOAY6YV2JnerEchl8"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "33697668264-r36vvu8g8natst352bmb52hvsl77mdho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
