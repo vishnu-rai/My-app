@@ -11,7 +11,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
         //getActionBar().setTitle("Welcome");
-        getSupportActionBar().setTitle("change hua");
+        getSupportActionBar().setTitle("Vishnu lawde ka baal");
 
         //getWindow().setFlags(WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS,WindowManager.LayoutParams.FLAG_LAYOUT_NO_LIMITS );
 
